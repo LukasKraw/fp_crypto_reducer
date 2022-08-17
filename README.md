@@ -1,8 +1,4 @@
-╔═══════════════════╗
-
-║ FP-CRYPTO-REDUCER ║
-
-╚═══════════════════╝
+# fp_crypto_reducer
 
 This program is a working prototype of an approach to reduce certain types of false positives in vulnerability reports of SAST tools, that target code using cryptographic libraries.
 The following steps are necessary to make the prototype work:
